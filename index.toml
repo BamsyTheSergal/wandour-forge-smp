@@ -1905,8 +1905,8 @@ hash = "28ec0fe825391261f68b2de4f7719f29dbc7b8c5a02876e6acfde975375cf3f4"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "e9cfb7374590ca30ace54658e4196c6b2f3883b89fdaa4c2cfb124da37021a55"
+file = "mods/continuity-version-fix.pw.toml"
+hash = "18fb9080ac9de38844f1e203f371b65eb27f56c63555edb1edef724b915b0ff1"
 metafile = true
 
 [[files]]

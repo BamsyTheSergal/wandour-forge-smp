@@ -1,0 +1,13 @@
+name = "Continuity Version Fix"
+filename = "continuity-3.0.2-custom-fabric-connector-fix+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "451d1293ab2d6180d775264f6a0a8c6fdd981096"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7473242
+project-id = 1431714
