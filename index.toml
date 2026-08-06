@@ -1901,7 +1901,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
+hash = "10166cb3e88f680ddb2c96d5df1f2e6baac640dc30822cb37a313ee81cd9bdc5"
 metafile = true
 
 [[files]]
@@ -2071,12 +2071,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "5a8b971146de3aa8dc7e4b862a12c69e787189ca8252db119253efdcc99220fe"
+hash = "ec092b17f54d5e8d15515f3f3b41565891701d01c655815509a9094dd5f32460"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "48d621f055c242082a47a9df3770b38000889b9e2b0e0d14c014ad1ae35968c4"
+hash = "59e35dbf05eac5f7cdbed49ea095a8187195a27ac3a7e89ef8eaa9e600404c31"
 metafile = true
 
 [[files]]
