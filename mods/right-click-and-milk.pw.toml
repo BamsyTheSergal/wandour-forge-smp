@@ -1,0 +1,13 @@
+name = "Right Click and Milk (A Farmer's Delight Add-on)"
+filename = "rightclickandmilk-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbd940212ba483a27b7d1795b3e21552aed37771"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7521664
+project-id = 1264015

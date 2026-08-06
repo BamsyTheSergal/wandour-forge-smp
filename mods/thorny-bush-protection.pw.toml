@@ -1,0 +1,13 @@
+name = "Thorny Bush Protection"
+filename = "thornybushprotection-1.20.1-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24f87df3796a256b5265d3823d211d3378d1fc94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6355619
+project-id = 950546

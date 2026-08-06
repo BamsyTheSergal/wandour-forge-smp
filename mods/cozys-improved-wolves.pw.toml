@@ -1,0 +1,13 @@
+name = "Cozy's Improved Wolves"
+filename = "cozys-improved-wolves-1.4.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9347f5e84ed7497e50f9d421c5f4eaafcbec77fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7553554
+project-id = 999336

@@ -1,0 +1,13 @@
+name = "Every Compat (Gems Realm)"
+filename = "gemsrealm-1.20-2.9.9-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e200f0acd2b1fc30a07d301d288a4b62608cc5c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8182458
+project-id = 1289099

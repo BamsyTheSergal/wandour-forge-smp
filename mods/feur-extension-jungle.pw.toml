@@ -1,0 +1,13 @@
+name = "Feur - Extension Jungle"
+filename = "feur_extension_jungle-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e58432ff0376fc9b960855ad81a9d15d8ee3abc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6680135
+project-id = 1114139

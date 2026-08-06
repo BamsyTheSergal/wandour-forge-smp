@@ -1,0 +1,14 @@
+
+["Tweaks Delight Configuration"]
+	#Enable the Item Frame Recipe Overlay
+	enableItemFrameRecipeOverlay = true
+	#Enable the Smart Ingredient Highlighting overlay in containers
+	enableSmartIngredientHighlighting = true
+	#Delay (in milliseconds) before items are highlighted when holding the Shift key
+	#Range: 0 ~ 5000
+	smartIngredientHighlightingDelay = 500
+	#Enable the quick HUD when looking at a Cooking Pot
+	enableCookingPotOverlay = true
+	#Enable the quick HUD when looking at a Skillet
+	enableSkilletOverlay = true
+

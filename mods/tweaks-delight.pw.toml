@@ -1,0 +1,13 @@
+name = "Tweaks Delight"
+filename = "tweaksdelight-26.04.09-1.20-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46a54904423c7b8b4616e3b4520eb57be30958e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7898017
+project-id = 1501134

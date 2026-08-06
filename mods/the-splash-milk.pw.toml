@@ -1,0 +1,13 @@
+name = "The Splash Milk"
+filename = "splash_milk-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "849deafb45c67861483ef55457c802360703ad8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4584206
+project-id = 564244

@@ -1,0 +1,13 @@
+name = "Wandour Forge Smp"
+author = "bamsy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "85afae14a6de66325a77810bc8ce5c5095523c0f18cd0dad601a1cc0e3fb8291"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
