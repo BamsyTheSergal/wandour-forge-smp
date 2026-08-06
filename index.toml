@@ -1906,7 +1906,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity-version-fix.pw.toml"
-hash = "18fb9080ac9de38844f1e203f371b65eb27f56c63555edb1edef724b915b0ff1"
+hash = "0e0ca2d696861f77759ab97d78d9a2c54378163a7ba1192a588d0ed01eb68fe4"
 metafile = true
 
 [[files]]
