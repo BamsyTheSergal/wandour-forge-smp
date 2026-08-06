@@ -2521,7 +2521,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "d9681dda5a47b93a1b18da042a0685b701f15159febf7e064da67ac03cb3140d"
+hash = "f171c2903a848a769cb050400e49a124634bce802782874af438b6112eeccf01"
 metafile = true
 
 [[files]]
