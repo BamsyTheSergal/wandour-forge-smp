@@ -2556,17 +2556,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ae62ce98fc6c95b46ceff8ca65a8b078c6606570135216750a7aa0a0ab809d78"
+hash = "6da035b79b3ba038bb15abe797236f3511998b2d9b847f6f7c35a2a541823c7d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9695601f611a296b4911394af10d2fd189ed1429d0629c78dcfa3185c778e6c2"
+hash = "b86b48973ab0ff47cb13cdf196dafdbc92a4beeab7a0a03596ec2ae8d080a1d4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "b8159e6b6f2febf2252f1cfc98782a47efe35ccc95d45b12d2735d4269d504a5"
+hash = "9c41f06cc10131c7cd3ee41d13b99ecc112b9b4559e7001473ced3765ed36f97"
 metafile = true
 
 [[files]]
