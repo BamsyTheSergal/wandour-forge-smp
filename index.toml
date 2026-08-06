@@ -2211,7 +2211,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-particles.pw.toml"
-hash = "d029310d82924454d4195a45bbf14906c8679be75425fc81bf6d1d8243d22086"
+hash = "ec95ebb17e6d007a9de6d7acfb40ead1457dcf9703ff1915d2dc6bb361ed3720"
 metafile = true
 
 [[files]]
@@ -2351,7 +2351,7 @@ metafile = true
 
 [[files]]
 file = "mods/mossylib.pw.toml"
-hash = "92fc1e4f54cee193daf4c3c39e264bbfa25c4297c0ce7ff96947320bd3ecfcfd"
+hash = "da21b44346758b1a5620a9f94493e5664fee10eee36a1b9f956125db7e8990b4"
 metafile = true
 
 [[files]]
