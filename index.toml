@@ -346,7 +346,7 @@ hash = "6d8c2727b99d5c48ac6faeaadfe87f894178a3e90628a473b650b27e0accb3e0"
 
 [[files]]
 file = "config/dynamic_fps.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+hash = "e30648a37fa592a6ef860c417baae9e9da1d9387439b698657450e381b510487"
 
 [[files]]
 file = "config/dynamictrees-common.toml"
@@ -474,11 +474,11 @@ hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
 file = "config/goat_man-common.toml"
-hash = "bf22da146f054ad21d7743a48de8ca9409a75a804af783797e7fdc1c5301de26"
+hash = "83b5765347e4ce54ea202956769bf6bd24d2daa76216a68dd2d00dd47435beff"
 
 [[files]]
 file = "config/heart_crystals.json"
-hash = "21f54adf261d7845a7babdca101bf08d45ddbb093d568db090edc3a24ca765a0"
+hash = "2da8ccf0473050d3e27c73b82538bab78f5bdc6140bb63a5112e2263ebfc2485"
 
 [[files]]
 file = "config/highlighter-common.toml"
@@ -1896,7 +1896,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bba3705506df4b1ed7456b3cc211a3c6b61ab571c95dc11a579e2ff49d1eb40b"
+hash = "59ea73a6566656e90914ac52689cfd958f484c7c1f6f17ed31ed37a2e16d7791"
 metafile = true
 
 [[files]]
@@ -2582,6 +2582,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "6f7a53e9d96b5afc1f256685c87ad5b951ea8eed1bd40d296fb42c65ebdbccce"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "6e7a371e2ce8adb8c4b0081b7e719d045889398fdd208aa22df8d8aa3edfd330"
 metafile = true
 
 [[files]]

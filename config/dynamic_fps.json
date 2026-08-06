@@ -1,1 +1,9 @@
-{}
+{
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 20,
+      "graphics_state": "reduced",
+      "run_garbage_collector": true
+    }
+  }
+}

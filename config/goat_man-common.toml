@@ -104,7 +104,7 @@
 	#Whether the GoatMan attacks isolated villagers, wandering traders, and wolves that are separated from their group
 	pick_off_stragglers = true
 	#Whether the GoatMan can destroy crops
-	destroy_crops = true
+	destroy_crops = false
 
 	[BEHAVIOR.CREEP-STALK]
 		#Chance a GoatMan spawns in creep-stalk mode when underground
@@ -387,7 +387,7 @@
 	#Range: 1 ~ 30
 	charge_and_leap_effect_duration = 3
 	#Whether the GoatMan can break blocks (fences, doors, glass, etc.)
-	break_block = true
+	break_block = false
 	#Whether the GoatMan drops blocks
 	drop_block = true
 
