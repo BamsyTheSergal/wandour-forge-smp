@@ -1900,6 +1900,11 @@ hash = "bba3705506df4b1ed7456b3cc211a3c6b61ab571c95dc11a579e2ff49d1eb40b"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "5b0eaf19630d6145093ae6ff9a21cf2dbdd0da53d9289673ad5ccb099afa18b7"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "6bf3fb3783cef4b76932466f06bcbdfd24796ddf72ebb6cbd7afe57a88809466"
 metafile = true
@@ -1977,6 +1982,11 @@ metafile = true
 [[files]]
 file = "mods/cuisine-delight.pw.toml"
 hash = "34b864842a0101aca036c2675615fec9227b52e5a90dfcef4ad3982b9360ebba"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "1d52e8d82a704af9a18b9dc649d8c93433e9ce2e223b20a5d4e885e83bba51b6"
 metafile = true
 
 [[files]]
