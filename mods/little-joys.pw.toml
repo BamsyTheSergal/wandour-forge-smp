@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/v0j2ftEp/versions/F66XdSYi/littlejoys-forge-1.20.1-20.1.18.jar"
-hash-format = "sha512"
-hash = "cb3e5b5d9c326a3f395ecd0c6b91f2efa046ac3b7e15b889ead7af0b304c39f43e21a6c50c287d29d7be997a0ee9efc644b87dd492171bb228bef959454dee7e"
+hash-format = "sha1"
+hash = "fe680ce06f47f308cf469621e9efe30e1a9b6937"
 
 [update]
 [update.modrinth]

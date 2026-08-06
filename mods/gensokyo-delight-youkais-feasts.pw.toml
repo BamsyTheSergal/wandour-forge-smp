@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ohy0TgO2/versions/ZeQsYQUa/youkaisfeasts-0.5.0.jar"
-hash-format = "sha512"
-hash = "171350c6ed4a95c6bedcb846b5b662274ecf536724b904144bcca35d629fce33f5ec9993b645de58b2e77168b3132f3cbe1d84429b7d96f9023728f3d8310729"
+hash-format = "sha1"
+hash = "a222d3f549eaa2f5245a183a52f2b108d3f75744"
 
 [update]
 [update.modrinth]
