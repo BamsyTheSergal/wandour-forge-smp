@@ -2396,7 +2396,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "d59a75da165137dcb17d537e8a49fb45605a517448853516f9b94f7c45ea4cfa"
+hash = "e7b16e34825b61162ff56557b5e5db0bf8a3ed80b979ff776605a89409210bfe"
 metafile = true
 
 [[files]]
