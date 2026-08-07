@@ -1,0 +1,13 @@
+name = "Melancholic Hunger & HUD"
+filename = "melancholic_hunger-2.0.3-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iEhfOVYR/versions/9CDt9Nc9/melancholic_hunger-2.0.3-1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "f9ae3389b57ce8b9ecde9421b413b2c512b6e004"
+
+[update]
+[update.modrinth]
+mod-id = "iEhfOVYR"
+version = "9CDt9Nc9"

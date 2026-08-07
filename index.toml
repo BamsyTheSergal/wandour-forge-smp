@@ -1629,6 +1629,10 @@ file = "config/tconstruct-common.toml"
 hash = "2f2d170508395a56ab6c83abe8feda4482638bec24bd971673e12efac584f9ac"
 
 [[files]]
+file = "config/tconstruct_emergence-common.toml"
+hash = "8ee9c2a770577e37b08030fd2e85ff74ed5cb1ef190c67e73dd8386c7fcd7ee8"
+
+[[files]]
 file = "config/terrablender.toml"
 hash = "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691"
 
@@ -1763,6 +1767,10 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 [[files]]
 file = "config/youkaisfeasts-common.toml"
 hash = "4f05869015bbe7a1b1fb8a8e42af9c1e01d043700a0d5a74966c41786eefa497"
+
+[[files]]
+file = "defaultconfigs/dynamictrees-server.toml"
+hash = "26d3b38c5c9f511e2333598ff20b11b6bdfed98dfa4e43f34c3d60f119844b9e"
 
 [[files]]
 file = "mods/accents.pw.toml"
@@ -2245,6 +2253,16 @@ hash = "478ff227e20253431c06972dfd947b0e67d560547486b87a30029e6af0d8bb59"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "45bed70215fd4cf5ed67c85aff97d5bf00ef3c3477af87eba2ebdb4e41ca6eed"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "1d6694be395436f14d5a36d3eaa8ecb53131f8479c1dc2c801050b94540ff530"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "61d777de1b0ee4650940eb4f72f3847a219a494204c30522c2a02fc6785f38da"
 metafile = true
@@ -2352,6 +2370,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
+metafile = true
+
+[[files]]
+file = "mods/melancholic_hunger.pw.toml"
+hash = "1afb2f2df3b9028229f3fabf94863cd1b1a79be46f61b365a0caf5e727f5d887"
 metafile = true
 
 [[files]]
@@ -2635,6 +2658,11 @@ hash = "ae964462914269638b6297d88658c3b1a101e5cf595ee38f9221116855672ac0"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct-emergence.pw.toml"
+hash = "5bac91bbac45d2395bf9257ebd7f85c7a1cb58f6a26478f66a6a248d4e8e7414"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "83ddbd214956dd3842d78ba548d98da6e5acda929d92f4a5b5618023cd5ccb8f"
 metafile = true
@@ -2721,7 +2749,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
+hash = "a59f275610d0a65d15c31b310623e6b97a2458c11d10294300c0fab3ada6b6a0"
 metafile = true
 
 [[files]]
