@@ -1898,6 +1898,11 @@ hash = "3496585720c5f0892136c89d245b1fc6054a0cce21c034331499132023cefa25"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -1935,6 +1940,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
@@ -2213,6 +2223,11 @@ hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
 metafile = true
 
 [[files]]
+file = "mods/im-fast.pw.toml"
+hash = "06363b409bfff3f58b45f0833842270087c099b7c5766ffc4cec545accf6fa57"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e339ce21a2fcda8c6bdd7183edc37bb1c6e85a1c5a59eca26cbfb7a1b37dd548"
 metafile = true
@@ -2400,6 +2415,11 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "1b70e1f3572ef5614bb2c0efc14e23e5891f6c7c7a113623ad8c5605e1c84d37"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "1c1647107ae5db53cfb3a89dfef655b83ed2ab64d96efb12f88ab722ea42069c"
 metafile = true
 
 [[files]]
