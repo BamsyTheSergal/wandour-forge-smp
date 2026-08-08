@@ -2438,6 +2438,11 @@ hash = "1afb2f2df3b9028229f3fabf94863cd1b1a79be46f61b365a0caf5e727f5d887"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "aad8873c7f7f78075340c2e3dac5b2496759cffb2798a65c0649c57f99aa958d"
 metafile = true
