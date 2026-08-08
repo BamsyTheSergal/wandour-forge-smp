@@ -1923,6 +1923,11 @@ hash = "6bf3fb3783cef4b76932466f06bcbdfd24796ddf72ebb6cbd7afe57a88809466"
 metafile = true
 
 [[files]]
+file = "mods/constructs-casting.pw.toml"
+hash = "7dc84d8a1f72b6b38ce2ec86cda0c32f45f2bd3d6fee6b3cf672117bdda461d8"
+metafile = true
+
+[[files]]
 file = "mods/continuity-version-fix.pw.toml"
 hash = "0e0ca2d696861f77759ab97d78d9a2c54378163a7ba1192a588d0ed01eb68fe4"
 metafile = true
@@ -1985,6 +1990,11 @@ metafile = true
 [[files]]
 file = "mods/create-ultimine.pw.toml"
 hash = "748546f76bbc0f5310ad25ca834cec0e7e2941855b95ee2f11d27ffb3a0b4b52"
+metafile = true
+
+[[files]]
+file = "mods/create-wizardry.pw.toml"
+hash = "31b01c55addb59cf7a879fcfd91a68e358ce0bae2aad73a83e6e976311e667de"
 metafile = true
 
 [[files]]
@@ -2168,13 +2178,28 @@ hash = "4f27e9288c015d33a43af4273378d3660aeae322689e6ebe978d207d021a3ec8"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "3e76939f890545ba722d145aee2e44bbac1c658b5e907d9f69d6e8299fe73127"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
 metafile = true
 
 [[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
+metafile = true
+
+[[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "95b3a27eadc2854462de996ddce5ff2468771e13ac97c46ed96d41a6edaa056e"
+metafile = true
+
+[[files]]
+file = "mods/ftbxaerocompat.pw.toml"
+hash = "9b5dc02e76cda6169aa572d4e4bd67c34512508fa5c2fa5842deaee6379b7de6"
 metafile = true
 
 [[files]]
@@ -2258,6 +2283,11 @@ hash = "8e73f30e8d02c6796f0626b7241bc25e595b0f27dafe6abc82ce6520f071089d"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "8d41ff3db951d88c3da3213fc3a1c3cfebcc014cd8248b2229c8c7ca3b6c7409"
+metafile = true
+
+[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "175953670aa8af658a60be96577eac7202cbef7b01c4d8b7689d100a46f327bc"
 metafile = true
@@ -2310,6 +2340,11 @@ metafile = true
 [[files]]
 file = "mods/loot-journal.pw.toml"
 hash = "70baeead07e64d2de26273e087de61bce55972ad232925f5cb3c509c7071161d"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "dd57e1bfd653730594fb1dac9f0e1c2de587f812c8990d946256d6887572dcf2"
 metafile = true
 
 [[files]]
@@ -2824,7 +2859,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8d5742a8d6858505a3858c03f81f07f2c98a49e04b374ddfc58d92f702419968"
+hash = "79faaf98d0a1feda753c430be713c303bc53c2fd00030feb88fae98678cdfb2e"
 
 [[files]]
 file = "resourcepacks/FA+All_Extensions-v1.9.2.zip"
