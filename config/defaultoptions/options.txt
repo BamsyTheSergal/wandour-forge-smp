@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","fabric","continuity:default","continuity:glass_pane_culling_fix","generated/fragmentum_layer","obscure_tooltips/packs/vibrant_tooltips","tinyskeletons:main","Moonlight Mods Dynamic Assets","delightful:overhauls","file/FA+All_Extensions-v1.8.1.zip","file/FA+Player-v1.1.zip","file/FreshAnimations_v1.10.4.zip","file/LowOnFire v26.2§8.zip","file/MandalasGUI+Dakmode_1.21.6_v2.1.zip","file/PA-FA-Compat-v1.zip","file/Visual Effects+.zip","file/tconjeidark.zip"]
-incompatibleResourcePacks:["file/MandalasGUI+Dakmode_1.21.6_v2.1.zip","file/PA-FA-Compat-v1.zip","file/Visual Effects+.zip"]
+resourcePacks:["vanilla","mod_resources","fabric","continuity:default","continuity:glass_pane_culling_fix","generated/fragmentum_layer","obscure_tooltips/packs/vibrant_tooltips","tinyskeletons:main","Moonlight Mods Dynamic Assets","delightful:overhauls","file/FA+All_Extensions-v1.8.1.zip","file/FA+Player-v1.1.zip","file/FreshAnimations_v1.10.4.zip","file/LowOnFire v26.2§8.zip","file/PA-FA-Compat-v1.zip","file/Visual Effects+.zip","file/Mandala\u0027s GUI - Dark Mode Compat 0.3.zip","file/MandalasGUI+Dakmode_1.21.6_v2.1.zip","file/tconjeidark.zip"]
+incompatibleResourcePacks:["file/PA-FA-Compat-v1.zip","file/Visual Effects+.zip","file/Mandala\u0027s GUI - Dark Mode Compat 0.3.zip","file/MandalasGUI+Dakmode_1.21.6_v2.1.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
