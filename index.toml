@@ -1574,7 +1574,7 @@ hash = "c554d592cbfb283aefeee5de67b89d84c51fdd305712d329b153beb7c9a7068a"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
-hash = "64d2ce1b1675f17e0807180b9680ef9c97e4b92ac86962b7cbf27f0db4926eb6"
+hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
