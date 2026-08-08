@@ -2443,6 +2443,11 @@ hash = "aad8873c7f7f78075340c2e3dac5b2496759cffb2798a65c0649c57f99aa958d"
 metafile = true
 
 [[files]]
+file = "mods/more-mobgriefing-options.pw.toml"
+hash = "9ae02df2bca3ec877aa58ab492716102e56f80b9d33ce33aad9c15fd30f7a87f"
+metafile = true
+
+[[files]]
 file = "mods/mossylib.pw.toml"
 hash = "d713fe40fbb02b86f737e4a077f91071ee2b327ee59d8e994a9659ee9483932e"
 metafile = true
