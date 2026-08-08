@@ -2023,6 +2023,11 @@ hash = "0481a3abf9762f636b8e3e620f788b55737b97298bb58dad7169913643da204b"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "dd55339a0a76fd2ce4c829dd3fb32f9bb8b3c8f6ca371b925434a4e0d8cfffa3"
+metafile = true
+
+[[files]]
 file = "mods/delightful.pw.toml"
 hash = "cb467a3244c95eaa305aae38f35f06391b5094812b0160fd47fc37b9678f17a5"
 metafile = true
@@ -2144,7 +2149,7 @@ metafile = true
 
 [[files]]
 file = "mods/fa-player-extension-compat.pw.toml"
-hash = "c58462b92f879e66b83bcfe6b4060b818000fbf7bbd5452caa386af7beb4fb1f"
+hash = "4834ea2d0fac5708eb91b5e0585b510e397e753e59da8e193653d3f3dcecc1ff"
 metafile = true
 
 [[files]]
@@ -2280,6 +2285,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "8e73f30e8d02c6796f0626b7241bc25e595b0f27dafe6abc82ce6520f071089d"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "b4d85753f9e367e0f86c9f614ecfaecbafe779b6b5a8a9c325f1a0029734a55b"
 metafile = true
 
 [[files]]
@@ -2493,6 +2503,11 @@ hash = "5a1ebf6c14a5acb356cbc96f3d341424fe0efad0e7be8bfe45b1a5dfc04b3a13"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
@@ -2510,6 +2525,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "75b7cccea6c6dae129d7b5d5ff440f2d554137cbaaa127e9f2f17c684d1c9009"
 metafile = true
 
 [[files]]
@@ -2809,7 +2829,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
+hash = "e59b1afad3abcd2656cb958ee423fa36f6f6a5ec4acd7e2df47865fb9582da66"
 metafile = true
 
 [[files]]
@@ -2862,45 +2882,58 @@ file = "options.txt"
 hash = "79faaf98d0a1feda753c430be713c303bc53c2fd00030feb88fae98678cdfb2e"
 
 [[files]]
-file = "resourcepacks/FA+All_Extensions-v1.9.2.zip"
-hash = "027acba5f64c9d1bf5ccb8daecb7fc756961bfeee866434a0ee5f7809a48d326"
-
-[[files]]
-file = "resourcepacks/FA+Player-v1.1.zip"
-hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.10.5.zip"
-hash = "cf9f17a2977e171b33cb0b598bc4357dd0383e09c10d5f768ff17c12d0a028ee"
-
-[[files]]
-file = "resourcepacks/LowOnFire v26.2§8.zip"
-hash = "25fc89fedc6d47fe2480a60910c65c8fd8b50121aaab919933e47cc6ba730a67"
-
-[[files]]
-file = "resourcepacks/Mandala's GUI - Dark Mode Compat 0.3.zip"
-hash = "889d8ab9edaf44b86bd8c0c0a77c7b7b5a0fc96738fd9fb3b6202ce2d0248fdb"
-
-[[files]]
 file = "resourcepacks/MandalasGUI+Dakmode_1.21.6_v2.1.zip"
 hash = "a760f0271ed5cc363761aac17a0b388cb56b273fa2ba055562d9f2e08965edfb"
 
 [[files]]
-file = "resourcepacks/Visual Effects+.zip"
-hash = "2ed52acca6c13bf4829534a8e2d807eed0882f57d8c0f78c5d8cf1f0711b2ce1"
+file = "resourcepacks/fa-player-extension-x-better-combat.pw.toml"
+hash = "5feff4688a8a25873cda2f304e63c270aed3ad7be762e5d6043fc881022f425f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "937fcd3f1e92ea90148a91238b7f0d0947526d9a8ef4bbf2428c1c29cc2c0b6d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "4ef38979d1a8d483946d2bb4bcec62245a57da065a0b6e7c559cc29e7544af49"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "089e80bb52a7728e5bccf9642970b96b80f027ee09177afa0983f678993ca566"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "e01f40abdf17fcf496e0573838d0461a4e47cf3267f89b0a4621db9f027d2d70"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "83b4079bf4617481afd7c31d963b8b0b18dfd9097ade81edb0b25bb19d9b6873"
+metafile = true
 
 [[files]]
 file = "resourcepacks/tconjeidark.zip"
 hash = "f6f084ae1df2f43e4a0e70b7d361ea766a0db9be9429ef43614d3d1ad8c20be4"
 
 [[files]]
+file = "resourcepacks/visual-effects-plus.pw.toml"
+hash = "f7ac1174227757e478da7287d9d8f102c1e650f8aededa84ecd9e87f792e7bed"
+metafile = true
+
+[[files]]
 file = "server-icon.png"
 hash = "915513a719bd0f0fe795dc23a88d3baa7bcb82f930b05d53c0a232a5163a3804"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
-hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "bf8157b4ff8dd4c28b56e8caa587402764208fba2084e6f45f811243cd2f6c48"
+metafile = true
 
 [[files]]
-file = "shaderpacks/photon_v1.3b.zip"
-hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "761271b06f8890561f9c5808ce4967fb9d83e34f86685b414ca29df31000b414"
+metafile = true
