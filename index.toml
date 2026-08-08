@@ -1788,6 +1788,11 @@ hash = "5d3f94d4280b3367a376f086018a4005866ddecbe80b6abb0849e5d995a98e9d"
 metafile = true
 
 [[files]]
+file = "mods/admin-chunk-manager.pw.toml"
+hash = "8a092e91b4da2b6bacab09bfeb0e58a5185826f64f03a7b932a555c5377735a9"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
 metafile = true

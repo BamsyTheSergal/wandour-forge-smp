@@ -1,0 +1,13 @@
+name = "Admin Chunk Manager"
+filename = "admin_chunk_manager-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dddb37c6614ce638fd5a87320fafcc5d8ee0b8ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7512713
+project-id = 1440421
