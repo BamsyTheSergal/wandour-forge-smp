@@ -325,6 +325,18 @@ file = "config/cuisinedelight-common.toml"
 hash = "7bf9d1dc290444227941704e917771aaccd3243f510baa92246e1c1af1e4bcbc"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "1ca5803e5650ff8e60ac969ce83502e9119cbae0c89318d0510a11bf7553ab9f"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "10f339d5e78724205f06e1535900ad17f599e06d6a17c8619ebddade91bd888d"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "7b62999f72541b32eb74e49df00a3bc0105e36001eb5d15f571c63d6599c62d9"
+
+[[files]]
 file = "config/delightful-common.toml"
 hash = "93b0e68cb42e4a5e518546d2ed79a06b2c3cf8a2dee5dc9e53d93823828a1d31"
 
@@ -1343,18 +1355,6 @@ hash = "04f5d7c2b2d356f4553fcdd0768ea6c831bdb83b98981d8a6fd2cc516be1aea5"
 [[files]]
 file = "config/inventory_particles.json5"
 hash = "fbd08cbb8fbc7606ccbec8ab7e084678ee433051c5329dad365a50cc0ba506c3"
-
-[[files]]
-file = "config/inventoryprofilesnext/New World/lockSlots.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/inventoryprofilesnext/New World/prev-villager-trading-config.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
@@ -2503,11 +2503,6 @@ hash = "5a1ebf6c14a5acb356cbc96f3d341424fe0efad0e7be8bfe45b1a5dfc04b3a13"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
@@ -2876,10 +2871,6 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "2c300c8f7129aabbfd0a5d913edd31baf1ee2641907d220ccc6981a6be204432"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "79faaf98d0a1feda753c430be713c303bc53c2fd00030feb88fae98678cdfb2e"
 
 [[files]]
 file = "resourcepacks/Mandala's GUI - Dark Mode Compat 0.3.zip"
