@@ -2882,8 +2882,8 @@ file = "options.txt"
 hash = "79faaf98d0a1feda753c430be713c303bc53c2fd00030feb88fae98678cdfb2e"
 
 [[files]]
-file = "resourcepacks/MandalasGUI+Dakmode_1.21.6_v2.1.zip"
-hash = "a760f0271ed5cc363761aac17a0b388cb56b273fa2ba055562d9f2e08965edfb"
+file = "resourcepacks/Mandala's GUI - Dark Mode Compat 0.3.zip"
+hash = "889d8ab9edaf44b86bd8c0c0a77c7b7b5a0fc96738fd9fb3b6202ce2d0248fdb"
 
 [[files]]
 file = "resourcepacks/fa-player-extension-x-better-combat.pw.toml"
