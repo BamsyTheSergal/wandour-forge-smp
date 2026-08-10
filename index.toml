@@ -2280,11 +2280,6 @@ hash = "4a2031839372d581b0b384d686865ef89fcd373312aa3b64397f0c42bd2759f8"
 metafile = true
 
 [[files]]
-file = "mods/gpushift.pw.toml"
-hash = "edbd1ea2fa7287e72f48a10e84bafe9e7424e4d7bccd8bc438bf19b6285aa5b3"
-metafile = true
-
-[[files]]
 file = "mods/heart-crystals.pw.toml"
 hash = "cabfebc36786b699dfb4c824b5e97e71ce0eedbb7a63ab6d9dd8c5a32ad84bad"
 metafile = true
