@@ -2276,6 +2276,11 @@ hash = "4a2031839372d581b0b384d686865ef89fcd373312aa3b64397f0c42bd2759f8"
 metafile = true
 
 [[files]]
+file = "mods/gpushift.pw.toml"
+hash = "edbd1ea2fa7287e72f48a10e84bafe9e7424e4d7bccd8bc438bf19b6285aa5b3"
+metafile = true
+
+[[files]]
 file = "mods/heart-crystals.pw.toml"
 hash = "cabfebc36786b699dfb4c824b5e97e71ce0eedbb7a63ab6d9dd8c5a32ad84bad"
 metafile = true
@@ -2361,6 +2366,11 @@ hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "7e9ef26310359f482e595815664b3d08381b30c6517c32a58078b0999e1d953a"
 metafile = true
@@ -2378,6 +2388,11 @@ metafile = true
 [[files]]
 file = "mods/little-joys.pw.toml"
 hash = "0aa93ba335f189319d239335e9967a0e255decfae2c3730feb8362e26cbbe1f1"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "db329a5071fe8f88fd4cf249949470d4ad5b848182b184396976e46b5c6a3562"
 metafile = true
 
 [[files]]

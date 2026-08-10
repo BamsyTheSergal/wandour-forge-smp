@@ -29,6 +29,12 @@ ServerEvents.tags('item', event => {
 });
 ServerEvents.recipes(event => {
   // --- Recipes ---
+  event.shapeless('kubejs:carbon_rich_iron', ['#minecraft:coals', '#minecraft:coals', 'minecraft:iron_ingot', '#minecraft:coals', '#minecraft:coals']).id('bamsy:iron_to_carbon_rich_iron');
+  event.smelting('tconstruct:steel_ingot', 'kubejs:carbon_rich_iron').xp(0.7).cookingTime(200).id('bamsy:carbon_rich_iron_to_steel_tinkers');
+});
+
+ServerEvents.recipes(event => {
+  // --- Recipes ---
   event.shapeless('minecraft:sponge', ['#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material']).id('bamsy:coral_to_sponge');
   event.shapeless('farmersdelight:rich_soil_farmland', ['farmersdelight:rich_soil', '#minecraft:hoes']).id('bamsy:hoe_richsoil_to_richfarmland');
 });

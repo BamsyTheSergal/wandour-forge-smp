@@ -1,0 +1,13 @@
+name = "GpuShift"
+filename = "gpushift-universal-1.20.1-1.2.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BpmMSdoc/versions/RsuZfnuf/gpushift-universal-1.20.1-1.2.8.jar"
+hash-format = "sha1"
+hash = "50c4a24ef2ab48a19d06dc0587773e0c0648ae0a"
+
+[update]
+[update.modrinth]
+mod-id = "BpmMSdoc"
+version = "RsuZfnuf"
