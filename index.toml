@@ -2325,6 +2325,11 @@ hash = "8e73f30e8d02c6796f0626b7241bc25e595b0f27dafe6abc82ce6520f071089d"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "64d769814285cdb2bf788a5a7d1585e2af580e855900ab1c96e80945710ed484"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "b4d85753f9e367e0f86c9f614ecfaecbafe779b6b5a8a9c325f1a0029734a55b"
 metafile = true
