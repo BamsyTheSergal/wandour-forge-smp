@@ -1781,6 +1781,10 @@ file = "kubejs/assets/kubejs/textures/item/arcane_shard.png"
 hash = "d2878c39e162a0c618bfaa0d9fd4c7f3cc159d60aadbd15a2bc3791022ecfc67"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/carbon_rich_iron.png"
+hash = "9c02e7f658781c193b6a3df2e61bfc70b7e07c20af710a3e6c89ff7a9ac4b2bd"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "a2e54e1a409661492013cce8d071fb8921a1c5965ab165942ae195272c9aadbf"
 
@@ -1794,11 +1798,11 @@ hash = "0fb33693211c73f213b6618ef6bea8e4b834ecdfb918158f7f1fee61864b48f3"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "b22c116c1ab4171aad32a05df5ed8b67a0b37db268ec8fb9066e4f10ff91f8bc"
+hash = "6b768f4843a900e1d1596040bfbf77c71c7472b7525eaede2e2859eeabc14b48"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
-hash = "8479dbe8edf251a8a55cc7ea916b688ecd1dbe94bb75ee15aed645f1797a5e94"
+hash = "f35adaf125a0c834e3703a899752f2d1dc3394092b8bfbe9340b15825df71630"
 
 [[files]]
 file = "mods/accents.pw.toml"
