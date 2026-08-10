@@ -2237,6 +2237,11 @@ hash = "3e76939f890545ba722d145aee2e44bbac1c658b5e907d9f69d6e8299fe73127"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "8a185af41fb24e83e4497c9362943723b6afee585cf8a3bf280ac155d29bf593"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
 metafile = true
@@ -2824,11 +2829,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "edfafd11282b46cca84cce70807e85f8b11e918ead6a1ef7aa7d9e216d98ece3"
-metafile = true
-
-[[files]]
-file = "mods/tpa.pw.toml"
-hash = "a0cc34971ed0817325462bd5a0e9e8bad9780f87bbd96e5d6895b81bb75c07a8"
 metafile = true
 
 [[files]]
