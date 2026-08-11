@@ -1842,6 +1842,11 @@ hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "1ee47fecd58a2435410f5a99004c933c543281daf95f997f74e31f99e46a36b7"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "04aae524d364de0ec8ac66db6eaff094b9c9b9d69e5de89f11acb2a00ce35261"
 metafile = true
@@ -2037,6 +2042,11 @@ hash = "a432e8775c2bdec53fca88146917905c5c82273e1b66af48b5ace0809433c8fe"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "70664713befd3e097746ac74ef70c757b41dc81cbedc686cb759bfb968d8f33f"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimine.pw.toml"
 hash = "748546f76bbc0f5310ad25ca834cec0e7e2941855b95ee2f11d27ffb3a0b4b52"
 metafile = true
@@ -2048,7 +2058,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+hash = "d07bdbfd246533ad3297d39811701df4bb2280adaaffe3431fdf3b85787eb9e6"
 metafile = true
 
 [[files]]
@@ -2294,6 +2304,11 @@ metafile = true
 [[files]]
 file = "mods/goatman.pw.toml"
 hash = "4a2031839372d581b0b384d686865ef89fcd373312aa3b64397f0c42bd2759f8"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
 metafile = true
 
 [[files]]
@@ -2638,7 +2653,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
 metafile = true
 
 [[files]]
