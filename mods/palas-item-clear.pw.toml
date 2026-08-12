@@ -1,0 +1,13 @@
+name = "Pala's Item Clear"
+filename = "palas-item-clear-1.20.1-forge-0.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DoKkIPix/versions/wKqDjYOd/palas-item-clear-1.20.1-forge-0.1.1.jar"
+hash-format = "sha1"
+hash = "ab97d193c0b62e0e86a5f84f702f6398297a73d1"
+
+[update]
+[update.modrinth]
+mod-id = "DoKkIPix"
+version = "wKqDjYOd"

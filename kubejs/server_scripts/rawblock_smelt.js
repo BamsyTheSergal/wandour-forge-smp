@@ -17,7 +17,7 @@ ServerEvents.recipes(event => {
         'minecraft:gold_block',
         'minecraft:raw_gold_block'
     )
-    .xp(9)
+    .xp(6.3)
     .cookingTime(1600)
     event.blasting(
         'minecraft:iron_block',
@@ -37,6 +37,6 @@ ServerEvents.recipes(event => {
         'minecraft:gold_block',
         'minecraft:raw_gold_block'
     )
-    .xp(9)
+    .xp(6.3)
     .cookingTime(800)
 })

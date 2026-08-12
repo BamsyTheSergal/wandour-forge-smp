@@ -3,7 +3,7 @@ EntityEvents.spawned(event => {
 
     if (entity.type == 'minecraft:experience_orb') {
         entity.mergeNbt({
-            Value: entity.nbt.Value * 6
+            Value: entity.nbt.Value * 3
         })
     }
 })

@@ -1794,7 +1794,7 @@ hash = "3b1693161aabc737a51f7af2c088a8d90186e9403c89f54bdaab70efeceaa93d"
 
 [[files]]
 file = "kubejs/server_scripts/XPBUFF-cuzmojangsucks.js"
-hash = "8068fd70b4e7fc91fa4a3c055df45998cd412c1227eb0b5b80f30462466dac72"
+hash = "ecb8fd353bb2240f8de8d8247c83db25dea189b1f4cfdf3646ce955e8e0ef0b0"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -1810,7 +1810,7 @@ hash = "c7012e4038a919c4f75617a514bbf32f8cad87564f981d59ebba975d8fcfd459"
 
 [[files]]
 file = "kubejs/server_scripts/rawblock_smelt.js"
-hash = "123e0e87fe81dd8eaa48e34bc5d79570bf6216029d21da238484ebf373661d71"
+hash = "43dd0a963f76b1fa50636898d6b8d9da2148c1be753cdaecc04835e342b68e52"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -1858,7 +1858,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
@@ -1952,6 +1952,11 @@ hash = "3496585720c5f0892136c89d245b1fc6054a0cce21c034331499132023cefa25"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "0e264c3d0ba3d35783ed9cf625de56bb9605b610c0c97b4ca24d1c337c1f60c0"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
 metafile = true
@@ -1959,6 +1964,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
 metafile = true
 
 [[files]]
@@ -2189,6 +2199,11 @@ metafile = true
 [[files]]
 file = "mods/epic-structures-witch-huts.pw.toml"
 hash = "c301df3d954bc964ce49195bd309729672759d9ef50d646a5030bbca27182d6f"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "d7004cfa41f2d00990a0ec9ac5d00502f5f40d0ba14ef95480fe4da3d374c2b1"
 metafile = true
 
 [[files]]
@@ -2577,6 +2592,11 @@ hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
 
 [[files]]
+file = "mods/palas-item-clear.pw.toml"
+hash = "1dbfa956a0e2b545b9af19ae90542c83c5fb8cc14e700454ebeaf5006010cfcc"
+metafile = true
+
+[[files]]
 file = "mods/patpat.pw.toml"
 hash = "5a1ebf6c14a5acb356cbc96f3d341424fe0efad0e7be8bfe45b1a5dfc04b3a13"
 metafile = true
@@ -2737,6 +2757,11 @@ hash = "0e789ac4e45f15ff32aea16782cd839d3dec2aa192867a9e14db522356a671bf"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-etched-integration.pw.toml"
+hash = "6efb982f0a6cdc90005d2670b4303bc9d14472135dfbb210c0d1b14919b8b5df"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "68ca19076205060e0bcbc0cf05191fbaecd76d154354179c4841bbca26187526"
 metafile = true
@@ -2849,6 +2874,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
+metafile = true
+
+[[files]]
+file = "mods/underlay.pw.toml"
+hash = "972d4f26b4762b75b8a9dd9fd6a50a226f091fb95cb2baf76f0ce6d79202c686"
 metafile = true
 
 [[files]]

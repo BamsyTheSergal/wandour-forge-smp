@@ -1,0 +1,13 @@
+name = "Sophisticated Backpacks Etched Integration"
+filename = "sophisticatedbackpacksetchedintegration-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GkohSRPs/versions/3yDMxls5/sophisticatedbackpacksetchedintegration-1.0.0.jar"
+hash-format = "sha1"
+hash = "fc3b891defcb5195874ef844f0c0809f0b63d19f"
+
+[update]
+[update.modrinth]
+mod-id = "GkohSRPs"
+version = "3yDMxls5"
