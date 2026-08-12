@@ -486,7 +486,7 @@ hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
 file = "config/goat_man-common.toml"
-hash = "83b5765347e4ce54ea202956769bf6bd24d2daa76216a68dd2d00dd47435beff"
+hash = "1febb4f16c7edc82713c5fee980a77bb9803b45c07704d965326f2571612eda4"
 
 [[files]]
 file = "config/heart_crystals.json"
