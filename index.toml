@@ -1912,11 +1912,6 @@ hash = "fb1240d660eca1f96732a45cbd39a97be47ba83d9306073f6398e8e6e6b7f48b"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
-metafile = true
-
-[[files]]
 file = "mods/betterend-forge.pw.toml"
 hash = "2068e918799ee1b7d1d99e53d0023a930b05592ddef191e8669cc46ea59f1db7"
 metafile = true
@@ -1934,16 +1929,6 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "dc45e2a3431d818f9bb2b7217a62e62ec8f455ca37b9f4f35947d2c442bad42b"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "ada3f841ef32e8bcd2ea6759fa63091879d37b81f7880e1490b116508b9300ee"
-metafile = true
-
-[[files]]
-file = "mods/chatanimation.pw.toml"
-hash = "2ccaded33ef03fa254c970748e2d028cadc8d75f1356d36d6a0849c361a23c90"
 metafile = true
 
 [[files]]
@@ -2372,11 +2357,6 @@ hash = "c631bb6766795b9e3afd76cd9131e59b35c85a9819959ba3aa8e63fd2d6387d2"
 metafile = true
 
 [[files]]
-file = "mods/inventory-particles.pw.toml"
-hash = "aca05121386ccb9bece9b7a35ca127f341a84a708afe8c9bb91b84fa7d933739"
-metafile = true
-
-[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "8e73f30e8d02c6796f0626b7241bc25e595b0f27dafe6abc82ce6520f071089d"
 metafile = true
@@ -2394,16 +2374,6 @@ metafile = true
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "8d41ff3db951d88c3da3213fc3a1c3cfebcc014cd8248b2229c8c7ca3b6c7409"
-metafile = true
-
-[[files]]
-file = "mods/item-borders.pw.toml"
-hash = "175953670aa8af658a60be96577eac7202cbef7b01c4d8b7689d100a46f327bc"
-metafile = true
-
-[[files]]
-file = "mods/item-highlighter.pw.toml"
-hash = "478ff227e20253431c06972dfd947b0e67d560547486b87a30029e6af0d8bb59"
 metafile = true
 
 [[files]]
@@ -2657,11 +2627,6 @@ hash = "27e710bcd78b48489ffd1058f31c72f30409b191ec939cff54d9171bb0280f66"
 metafile = true
 
 [[files]]
-file = "mods/reblured.pw.toml"
-hash = "beafbb6f7bb324a601f862c56220b657602b7d95a6511b8e66cbc706666b3f99"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-chipped.pw.toml"
 hash = "af372a47ca8651e8915610d231d55b729aaec4b46d010d010b28b81abbb85dc3"
 metafile = true
@@ -2734,11 +2699,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "9b59e9b08c1281a521777e9924dab6c258e42c5d1c06852b9ebe9304021aec42"
-metafile = true
-
-[[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "f171c2903a848a769cb050400e49a124634bce802782874af438b6112eeccf01"
 metafile = true
 
 [[files]]
