@@ -1872,6 +1872,11 @@ hash = "d7d9d88b6c822b5979f2fbe5d395835d0f53fe20e768c336ed83c4317bd82ce7"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "0700d17f36cd6b256bc65d30c79068d2627faacc7d6a601140445740c8960743"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
@@ -1944,6 +1949,11 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight-forge.pw.toml"
 hash = "c280846e9a6599055814a024ad5b5212344a8c02a955d0e779cca7aa2244fd4f"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "e3f5cac70db6f1fc6679a7220b677bd618a481cf6b2e37156966bbde2cedec2f"
 metafile = true
 
 [[files]]
@@ -2649,6 +2659,11 @@ metafile = true
 [[files]]
 file = "mods/reblured.pw.toml"
 hash = "beafbb6f7bb324a601f862c56220b657602b7d95a6511b8e66cbc706666b3f99"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+hash = "af372a47ca8651e8915610d231d55b729aaec4b46d010d010b28b81abbb85dc3"
 metafile = true
 
 [[files]]
