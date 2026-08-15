@@ -11,7 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8536533
 project-id = 854949
-
-[option]
-optional = true
-description = "this is a cool tool for connected textures!"

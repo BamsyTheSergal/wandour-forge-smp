@@ -2296,7 +2296,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "5acb3abe9b35f11040275f51494e8dca2f16300caeb9c914e9aa9d935e9d4c43"
+hash = "c5d218f7e9a87084cbe0c45c19ef4288a6999b559ffac2fdf208594db9febffc"
 metafile = true
 
 [[files]]
@@ -2736,7 +2736,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "1b0bed118568c582a2051f4037f65456ffaab1cc193d5c8063e848eb8fe29b0d"
+hash = "98f30d2fa6f9504feba784b164b2240406949f0ab3778325f722b187927ea71a"
 metafile = true
 
 [[files]]
