@@ -11,7 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8462759
 project-id = 931925
-
-[option]
-optional = true
-description = "Chloride is a performance addon/mod for Sodium that aims to improve the performance of the game and the quality of sodium itself"

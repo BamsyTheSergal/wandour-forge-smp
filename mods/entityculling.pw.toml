@@ -11,7 +11,3 @@ hash = "b818f6d792b79f4ec116c89704e70292bd6f72b5"
 [update.modrinth]
 mod-id = "NNAgCjsB"
 version = "MloBcsQQ"
-
-[option]
-optional = true
-description = "this is nice for hiding things behind blocks that you dont physically see, can cause issues on lower end cards because they can pop in and out really often"

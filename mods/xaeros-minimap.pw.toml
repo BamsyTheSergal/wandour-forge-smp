@@ -11,7 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8449808
 project-id = 263420
-
-[option]
-optional = true
-description = "minimap mod"

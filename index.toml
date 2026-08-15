@@ -1961,7 +1961,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "7910c9eada10c87ddd2fa1685a3d55774eb445be556bed5421614ca9c6087137"
+hash = "3496585720c5f0892136c89d245b1fc6054a0cce21c034331499132023cefa25"
 metafile = true
 
 [[files]]
@@ -2201,7 +2201,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "78dd9a73ca4e523830c0804be7c7700d56dd53da006b7b63cc6a300faaed993e"
+hash = "2c41eb9789621601e9ca3869a5a9497037d2dacf1fdb95940b20710c339bdc56"
 metafile = true
 
 [[files]]
@@ -2381,7 +2381,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "1e2bb99026b09145ad0155e22f989c9c21cad25077f9b5e6503db118bec4e77a"
+hash = "9838be4ebe38be1d42f3ed30b55fd3a9d8b72264bd0cd22be7304ce122893056"
 metafile = true
 
 [[files]]
@@ -2596,7 +2596,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "f6205b8183b1d59e10c2d5e5c11215ed287149a16948524e6153b2ce78d20db1"
+hash = "59808625a24dc5b75a4d3b7661b514f56705cdc799bc759d14046307f43a40b6"
 metafile = true
 
 [[files]]
@@ -2632,11 +2632,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
-metafile = true
-
-[[files]]
-file = "mods/project-1540337.pw.toml"
-hash = "c67594c1e8794966b63372c8d45d17876604975a17d78055c45e12bb7eb0a627"
 metafile = true
 
 [[files]]
@@ -2846,7 +2841,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
-hash = "fbd1d93ab318f520b3c755c993d4e4ff24eff7ced81bf4327ae229b0c4d1a5db"
+hash = "357d22d266a2c4a657533d9dc6966e04829a19235b2744ee4c36b591b0491305"
 metafile = true
 
 [[files]]
@@ -2916,12 +2911,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3a89fe491a06af74f2492cbc0ccf1b7dfc0ee8639609b3c01d969ed33e371e54"
+hash = "9bf62b0437db349c189212ab18ef55ff48a256ba02f36fd8cf247cc6c62da63f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ed37945f21d5edbb29f41753b5991c0d08daf07460aea5a844175d000b09b782"
+hash = "537d06334e5d3bca75493f8de01233df545ad41bbb97df470bcca91d9687dd59"
 metafile = true
 
 [[files]]

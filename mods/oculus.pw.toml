@@ -14,4 +14,4 @@ project-id = 581495
 
 [option]
 optional = true
-description = "shader system"
+description = "[READ!!!] this is important for shaders to work!!!!!!!! if you dont need or want to use shaders you DON'T NEED THIS!! :3"
