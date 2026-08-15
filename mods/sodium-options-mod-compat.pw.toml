@@ -11,3 +11,7 @@ hash = "214e96498ac1c840e3eee553fc69ba721e4f9a64"
 [update.modrinth]
 mod-id = "Yg1VT27P"
 version = "PS8WDZSu"
+
+[option]
+optional = true
+description = "Sodium Options Mod Compat adds Sodium video settings for various mods that don't have them."

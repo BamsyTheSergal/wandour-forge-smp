@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7546908
 project-id = 335493
+
+[option]
+optional = true
+description = "this is a mod to lower the fps of the game when you have it unfocused to save on gpu resources and ram"

@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8361048
 project-id = 974154
+
+[option]
+optional = true
+description = "emi addon for tinkers construct"

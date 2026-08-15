@@ -11,3 +11,7 @@ hash = "a11227479ddcddcb0eed3f9c3717c53fd5a47222"
 [update.modrinth]
 mod-id = "ndHYMY2K"
 version = "dE1A45cG"
+
+[option]
+optional = true
+description = "needed if you have shaders"

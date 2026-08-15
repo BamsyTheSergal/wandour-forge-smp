@@ -11,3 +11,6 @@ hash = "122e397af111e3dc5fb6b60004aad9464980f13a"
 [update.modrinth]
 mod-id = "TAIMVZCL"
 version = "Wj7NeGjP"
+
+[option]
+optional = true

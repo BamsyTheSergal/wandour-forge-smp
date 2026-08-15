@@ -11,3 +11,7 @@ hash = "2acee24454af859988a691f0506271a465f68f7b"
 [update.modrinth]
 mod-id = "b1ZV3DIJ"
 version = "DULOQFj7"
+
+[option]
+optional = false
+description = "needed by chipped!"

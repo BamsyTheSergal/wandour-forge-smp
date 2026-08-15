@@ -11,3 +11,7 @@ hash = "5b976f6e76ec74cdef21865e31f56bcb11558db7"
 [update.modrinth]
 mod-id = "fuuu3xnx"
 version = "PM9yAW1G"
+
+[option]
+optional = true
+description = "needed by controlling (library)"

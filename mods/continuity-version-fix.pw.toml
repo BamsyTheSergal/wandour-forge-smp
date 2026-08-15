@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7473242
 project-id = 1431714
+
+[option]
+optional = true
+description = "this is for a very specific mod that adds connected textures"

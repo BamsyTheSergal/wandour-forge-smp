@@ -11,3 +11,7 @@ hash = "a4d511b040173dddc65bc5fa1126369d489b8217"
 [update.modrinth]
 mod-id = "ffLDUGbm"
 version = "L3F6ErgK"
+
+[option]
+optional = true
+description = "needed for inventory particles"

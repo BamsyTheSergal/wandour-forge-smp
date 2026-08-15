@@ -11,3 +11,7 @@ hash = "a4ad6605706bebca9470a5affe6f44abaef5d507"
 [update.modrinth]
 mod-id = "u58R1TMW"
 version = "e8hSZ4vp"
+
+[option]
+optional = true
+description = "this is needed for continuity (also makes fabric mods work on forge)"

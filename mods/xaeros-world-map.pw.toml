@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8449908
 project-id = 317780
+
+[option]
+optional = true
+description = "world map addon for minimap"

@@ -11,3 +11,7 @@ hash = "6195a3d1464f8fb641d7e165163aea1a857ce08e"
 [update.modrinth]
 mod-id = "xv94TkTM"
 version = "LH6Bi6Am"
+
+[option]
+optional = true
+description = "this lets you search your settings"

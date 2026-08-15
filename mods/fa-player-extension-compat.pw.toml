@@ -11,3 +11,7 @@ hash = "cc548410829cf509d50a154be4072182d612e2dc"
 [update.modrinth]
 mod-id = "I44nKnul"
 version = "ajirqc1P"
+
+[option]
+optional = true
+description = "this is needed if you have the base fresh animations resourcepack!"

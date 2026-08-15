@@ -11,3 +11,7 @@ hash = "d5ea70bd8d4a29d436901fd2b6e180147c1bdd2c"
 [update.modrinth]
 mod-id = "3qAYkBMB"
 version = "keUL5Iuv"
+
+[option]
+optional = true
+description = "texture upgrader system, needed for some texture packs"

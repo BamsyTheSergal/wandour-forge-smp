@@ -11,3 +11,7 @@ hash = "7189cbc87aaa982a44514bf92b139f7b43203a91"
 [update.modrinth]
 mod-id = "WEg59z5b"
 version = "AVz3mvZZ"
+
+[option]
+optional = false
+description = "this is for options made by the modpack dev to ship a default options.txt file"

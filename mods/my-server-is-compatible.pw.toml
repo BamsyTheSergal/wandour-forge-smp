@@ -11,3 +11,7 @@ hash = "a53abcabc6c3531667049be249b3fb165aad5468"
 [update.modrinth]
 mod-id = "13qq15Cg"
 version = "7jEatFH8"
+
+[option]
+optional = true
+description = "removes the small x next to servers, not really needed tho"

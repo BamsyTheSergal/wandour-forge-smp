@@ -11,3 +11,7 @@ hash = "7529fbf938787ed13a251cbf40936f8c29ec4b6c"
 [update.modrinth]
 mod-id = "Es5v4eyq"
 version = "d0EFLitO"
+
+[option]
+optional = true
+description = "This mod adds cross-platform events for adding Sodium/Embeddium options menu integration."

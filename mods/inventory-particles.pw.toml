@@ -1,0 +1,17 @@
+name = "Inventory Particles"
+filename = "InventoryParticles-3.0.0+1.20.1+forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/ruz2O5DP/InventoryParticles-3.0.0%2B1.20.1%2Bforge.jar"
+hash-format = "sha1"
+hash = "cdc7315a162a0fd9b5c0c1dc43da991d3fbe469f"
+
+[update]
+[update.modrinth]
+mod-id = "XYnKrsxH"
+version = "ruz2O5DP"
+
+[option]
+optional = true
+description = "adds little particles to items when you drag them around, super customizable if it's too much!"

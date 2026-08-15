@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8348481
 project-id = 686911
+
+[option]
+optional = true
+description = "this is kinda nice to have but is only really useful for loading the game!"

@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8145949
 project-id = 700723
+
+[option]
+optional = true
+description = "pick up notifier"
