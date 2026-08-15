@@ -15,14 +15,15 @@ LootJS.modifiers(event => {
         .addEntityLootModifier("goat_man:goat_man")
         .pool(pool => {
             pool.addLoot("heart_crystals:heart_crystal")
-            pool.limitCount([1, 5])
+            pool.limitCount([1, 8])
         })
         .pool(pool => {
             pool.addLoot("minecraft:netherite_ingot")
-            pool.limitCount([1, 6])
+            pool.limitCount([1, 12])
         })
         .pool(pool => {
             pool.addLoot("minecraft:nether_star")
+            pool.limitCount([1, 8])
         })
     event
         .addEntityLootModifier("minecraft:wither")
@@ -33,11 +34,5 @@ LootJS.modifiers(event => {
         .pool(pool => {
             pool.addLoot("minecraft:nether_star")
             pool.limitCount([1, 2])
-        })
-    event
-        .addEntityLootModifier("minecraft:ender_dragon")
-        .pool(pool => {
-            pool.addLoot("heart_crystals:heart_crystal")
-            pool.limitCount([5, 15])
         })
 })
