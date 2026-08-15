@@ -1,6 +1,6 @@
 name = "Distant Horizons"
 filename = "DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/FWGxbEM3/DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar"
@@ -11,3 +11,7 @@ hash = "5667440fdca4d4543c345c9ba6fda2dda64928ca"
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "FWGxbEM3"
+
+[option]
+optional = true
+description = "LOD system for seeing distant chunks"
