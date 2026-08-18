@@ -2458,6 +2458,11 @@ hash = "db329a5071fe8f88fd4cf249949470d4ad5b848182b184396976e46b5c6a3562"
 metafile = true
 
 [[files]]
+file = "mods/longer-login-times.pw.toml"
+hash = "27778be66f8c825ab12d72c76cf39163c9e4b083a7956049ebda1d66ed2ad99c"
+metafile = true
+
+[[files]]
 file = "mods/loot-journal.pw.toml"
 hash = "f40fce0511223bb4a32d42cf296d294550248d5cb72436a5886614b2eb4fd66e"
 metafile = true
