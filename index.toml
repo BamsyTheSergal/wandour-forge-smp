@@ -485,6 +485,10 @@ file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
+file = "config/gemsrealm-hazardous.toml"
+hash = "17aabbb77b29419690410d7400cc92524b2b2c469152836168b7f3ee00dca9d6"
+
+[[files]]
 file = "config/goat_man-common.toml"
 hash = "1febb4f16c7edc82713c5fee980a77bb9803b45c07704d965326f2571612eda4"
 
@@ -1599,6 +1603,10 @@ hash = "ad2d93625c17340af17d4f8160853cb2a8db338ebc5e8989c574798039379f56"
 [[files]]
 file = "config/sounds/world.json"
 hash = "370cb0d795cd5143f878dbaa489ba2ec7cbd14228cafa07d4a86a27a2e08f923"
+
+[[files]]
+file = "config/stonezone-hazardous.toml"
+hash = "5d95927e68dab5ed93e633bf3808be283c2c7e9e22d6ec8fd2f2b1b8d0bb144b"
 
 [[files]]
 file = "config/tconjei-client.toml"
