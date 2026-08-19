@@ -485,10 +485,6 @@ file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
-file = "config/gemsrealm-hazardous.toml"
-hash = "17aabbb77b29419690410d7400cc92524b2b2c469152836168b7f3ee00dca9d6"
-
-[[files]]
 file = "config/goat_man-common.toml"
 hash = "1febb4f16c7edc82713c5fee980a77bb9803b45c07704d965326f2571612eda4"
 
@@ -1605,10 +1601,6 @@ file = "config/sounds/world.json"
 hash = "370cb0d795cd5143f878dbaa489ba2ec7cbd14228cafa07d4a86a27a2e08f923"
 
 [[files]]
-file = "config/stonezone-hazardous.toml"
-hash = "5d95927e68dab5ed93e633bf3808be283c2c7e9e22d6ec8fd2f2b1b8d0bb144b"
-
-[[files]]
 file = "config/tconjei-client.toml"
 hash = "eabd46602a92d93ccb170f7a4f9ed4c6dc0a1629d49bb034471be43aad569c34"
 
@@ -2223,11 +2215,6 @@ hash = "d7004cfa41f2d00990a0ec9ac5d00502f5f40d0ba14ef95480fe4da3d374c2b1"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "c1a3d96f26a73d8caeab9f0d06b5c5174bed66f2da4436dce578ea6e83422763"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0db85b53cd32bb1d23c33273deaef58bd0f0429a180d171e3f02fe0ab86b0fe2"
 metafile = true
@@ -2315,11 +2302,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "824e24a57c93ca7dac91c267305db8fb2f5ef03d17cf950c20984c22d14f29e7"
-metafile = true
-
-[[files]]
-file = "mods/gems-realm.pw.toml"
-hash = "365c0b6ffdf2040dc509d9efc7320d8d14bc37b05255fba37d7935c451b4842a"
 metafile = true
 
 [[files]]
@@ -2785,11 +2767,6 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "6e7a371e2ce8adb8c4b0081b7e719d045889398fdd208aa22df8d8aa3edfd330"
-metafile = true
-
-[[files]]
-file = "mods/stone-zone.pw.toml"
-hash = "09ab86f9dc5e0fb602e1a33e71c059a21b95492966c6f96ba799cda2e410ce0a"
 metafile = true
 
 [[files]]
