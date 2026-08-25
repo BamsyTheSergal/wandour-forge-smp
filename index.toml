@@ -1797,6 +1797,10 @@ file = "kubejs/server_scripts/XPBUFF-cuzmojangsucks.js"
 hash = "ecb8fd353bb2240f8de8d8247c83db25dea189b1f4cfdf3646ce955e8e0ef0b0"
 
 [[files]]
+file = "kubejs/server_scripts/bamsy-tinker.js"
+hash = "9649fbdda72c32373bd61d94f4cba1cac22972d7fdf4c872b6ecfc28ddbff3ce"
+
+[[files]]
 file = "kubejs/server_scripts/disabled_searedoven.js"
 hash = "39a2ac3b33c8408a849c174e95785c82daa2814fe087a14b785d13cde08a0dd3"
 
@@ -2057,6 +2061,11 @@ metafile = true
 [[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "68069a63ebbff63d18a9e8242745ca342b1649e07944291e8e5e24ba74946b25"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "3af9477a2722ae541be216c83c5b7ccfd257c6811e653ca37d1773b5a2eeecf9"
 metafile = true
 
 [[files]]
@@ -2607,6 +2616,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "36b5bf6dbe0178b0b46a31806653cfe9a811c5d1c133852a9a58ca1f7f8d9393"
 metafile = true
 
 [[files]]
